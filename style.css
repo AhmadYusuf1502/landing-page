@@ -27,6 +27,11 @@ li{
 }
 button{
     background-color: #3882f6;
+    border-radius: 10px;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+
 }
 button, a{
     color: #F9FAF8;
