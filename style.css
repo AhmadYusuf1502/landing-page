@@ -6,8 +6,22 @@ body{
 .hero, .footer{
     background-color: #1F2937;
 }
+.hero .header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 300px;
+}
+.main-text{
+    display: flex;
+    flex-direction: column;
+}
 h1{
     font-size: 24px;
+    color: #F9FAF8;
+}
+p{
     color: #F9FAF8;
 }
 div .main-text h1{
@@ -19,7 +33,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    gap: 8px;
+    gap: 20px;
 }
 li{
     font-size: 18px;
