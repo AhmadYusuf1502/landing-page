@@ -80,17 +80,22 @@ div .zero{
     height: 100px;
     border-radius: 10px;
 }
-div .call-to-action{
+div .cat{
     display: flex;
+    justify-content: center;
+}
+div .call-to-action{
+    /* display: flex;
     flex-wrap: wrap;
     gap: 50x;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
     background-color: #3882f6;
     border: none;
     border-radius: 5px;
     width: 800px;
-    margin: 20px;
+    height: 50;
+    margin: 5px;
     padding: 20px;
 }
 button, a{
