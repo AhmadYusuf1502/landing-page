@@ -38,6 +38,10 @@ div .header-info h1{
 color: black;
 text-align: center;
 }
+div .container{
+    padding-top: 15px;
+    padding-bottom: 70px;
+}
 p{
     color: #F9FAF8;
 }
